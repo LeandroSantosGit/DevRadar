@@ -21,7 +21,7 @@ Repositório oficial do projeto [semana-omnistack-10](https://github.com/Rockets
 
 Na aplicação web cadastra-se um denvolvedor com usuário do GitHub e as tecnologias de seu conhecimento, e atraves da API do GitHub dados do perfil são salvos no DevRadar.
 
-<img src=".github/devradarWeb.png" alt="Página de cadastro" align="center">
+<img src=".github/devradarWeb.PNG" alt="Página de cadastro" align="center">
 
 ## Mobile
 
@@ -101,7 +101,7 @@ const socket = socketio('http://192.168.0.134:3333', {
 
 ## Vídeos
 
-O canal do Filipe Deschamps no Youtube lançou vídeos durante a semana resumindo em detalhes tudo que rolou na Semana OminStack #9 [Playlist](https://www.youtube.com/playlist?list=PLMdYygf53DP67p5x4OyvR9LPMkLkhga_n)
+O canal do Filipe Deschamps no Youtube lançou vídeos durante a semana resumindo em detalhes tudo que rolou na Semana OminStack 10 [Playlist](https://www.youtube.com/playlist?list=PLMdYygf53DP67p5x4OyvR9LPMkLkhga_n)
 
 ## Licença
 
