@@ -1,0 +1,71 @@
+li.dev-item {
+    background: #FFF;
+    background: 0 0 14px rgba(0, 0, 0, 0.02);
+    box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.35);
+    border-radius: 2px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+li.dev-item header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+li.dev-item header img {
+    width: 54px;
+    height: 54px;
+    border-radius: 50%;
+}
+
+li.dev-item header .user-info {
+    margin-left: 10px;
+}
+
+.user-info strong {
+    display: block;
+    font-size: 16px;
+    color: #333;
+}
+
+.user-info span {
+    font-size: 13px;
+    color: #808080;
+    margin-top: 2px;
+}
+
+li.dev-item p {
+    color: #666;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 10px 0;
+}
+
+li.dev-item a {
+    color: #2A265F;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+li.dev-item a:hover {
+    color: #0b0a21;
+}
+
+button.button-operations {
+    width: 80px;
+    margin-top: 10px;
+    border: 0;
+    background: #2A265F;
+    border-radius: 2px;
+    padding: 5px 8px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #FFF;
+    cursor: pointer;
+    transition: background 0.5s;  
+}
+
+button.button-operations:hover {
+    background: #0b0a21;
+}
